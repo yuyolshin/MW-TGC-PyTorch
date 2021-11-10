@@ -6,7 +6,7 @@ This is a PyTorch implmentation of Multi-Weight Traffic Graph Conovlutional (MW-
 Yuyol Shin, Yoonjin Yoon. 2020. Incorporating Dynamicity of Transportation Network with Multi-Weight Traffic Graph Convolutional Network for Traffic Forecasting. IEEE Transactions on Intelligent Transportation Systems. ![link](https://ieeexplore.ieee.org/abstract/document/9239873)
 
 
-### The Dataset
+## The Dataset
 We used speed data of Seoul, South Korea to test the performance of the proposed model. 
 The original dataset is obtained from TOPIS ![link](https://topis.seoul.go.kr/)
 We processed the dataset and defined two study areas - (1) _urban-core_, and (2) _urban-mix_
@@ -16,7 +16,7 @@ _Urban-mix_ is an expansion of _Urban-core_, and it is populated with heterogene
 ![image](https://user-images.githubusercontent.com/31876093/141130819-768855b5-e9b3-4533-b3b6-ef348c687b3d.png)
 
 
-### Experimental Results 
+## Experimental Results 
 The model showed an increased performance compared to state-of-the-art models in both datasets. 
 Note that the performance gain was larger in _Urban-mix_ than _Urban-core_
 
