@@ -1,4 +1,4 @@
-# Incorporating Dynamicity of Transportation Network with Multi-Weight Traffic Graph Convolutional Network for Traffic Forecasting 
+## Incorporating Dynamicity of Transportation Network with Multi-Weight Traffic Graph Convolutional Network for Traffic Forecasting (Shin and Yoon, 2020)
 
 ![image](https://user-images.githubusercontent.com/31876093/141113772-9e008ac3-1bcd-476f-a450-aaf3112aeeff.png)
 
